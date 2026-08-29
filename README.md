@@ -1,8 +1,16 @@
 # Fundamentos
 
-Repositório criado para armazenar meus estudos e exercícios de JavaScript.
+Repositório criado para armazenar meus estudos e exercícios de JavaScript, realizados durante o curso **"Algoritmo e Lógica de Programação do Absoluto ZERO! — Completo"**, da **Udemy**.
 
-## 📚 Conteúdos
+## 📚 Curso
+
+**Algoritmo e Lógica de Programação do Absoluto ZERO! — Completo**
+
+🎓 Plataforma: **Udemy**
+
+O repositório reúne meus estudos e exercícios práticos desenvolvidos ao longo do curso.
+
+## 📖 Conteúdos
 
 Neste repositório estou estudando os fundamentos da programação utilizando JavaScript:
 
@@ -21,8 +29,7 @@ Neste repositório estou estudando os fundamentos da programação utilizando Ja
 
 ## 🎯 Objetivo
 
-Aprender e praticar os fundamentos da programação utilizando JavaScript,
-desenvolvendo uma base sólida para meus próximos estudos.
+Aprender e praticar os fundamentos da programação utilizando JavaScript, desenvolvendo uma base sólida para meus próximos estudos e projetos.
 
 ## 📁 Organização
 
